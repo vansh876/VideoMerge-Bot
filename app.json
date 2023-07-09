@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/vansh876/VideoMerge-Bot",
     "website": "https://telegram.dog/Vansh1760",
-    "success_url": "https://t.me/VideosMergerBot",
+    "success_url": "https://t.me/Vdllsbot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
